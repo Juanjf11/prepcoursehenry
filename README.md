@@ -1,2 +1,1 @@
-# prepcoursehenry
-repositorio del M0 del prepcouerse de henry
+este proyecto es como crear un github a mi escritorio
